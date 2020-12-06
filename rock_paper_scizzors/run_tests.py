@@ -1,6 +1,5 @@
 import unittest
-from app.tests.powers_test import TestPowers
-from app.tests.power_test import TestPower
+from app.tests.game_test import TestGame
 from app.tests.player_test import TestPlayer
 
 if __name__ == '__main__':
